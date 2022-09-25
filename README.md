@@ -1,16 +1,13 @@
 # track_it_app
 
-A new Flutter application.
+Driver Tracking app and listing routes and locations reached by driver with the time using the following:-
 
-## Getting Started
+-Firebase Auth
+-Firebase Fire Store
+-Locations Package
+-Google map sdk
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/86453565/192154067-5c5415fe-30ff-446e-9540-dc317651609c.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
