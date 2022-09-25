@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "556880025679",
+    "project_id": "track-it-dd87b",
+    "storage_bucket": "track-it-dd87b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556880025679:android:b334cc9e4e65b897cfb23a",
+        "android_client_info": {
+          "package_name": "upapps.track_it_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556880025679-5hm6gm7bu459op0b5se3kc8t7nohtbar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnOLc9nieYHkj3F36wzMbkBD5CoaQJzEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556880025679-5hm6gm7bu459op0b5se3kc8t7nohtbar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
